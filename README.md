@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050f2c&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00adfe&height=120&section=header"/>
 
 <h1 align="center">Olá , eu sou Farmy Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -54,7 +54,7 @@
 </br>
 </br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=farmysilva&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=farmysilva&bg_color=0d1117&color=fb047b&line=2ddd97&point=838896&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
