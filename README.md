@@ -13,8 +13,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmysilva&layout=compact&langs_count=7&theme=algolia"/>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farmysilva&theme=algolia" alt="fredrick-waihenya" />
 </div>
+</br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
