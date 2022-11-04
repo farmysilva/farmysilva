@@ -8,10 +8,10 @@
 </br>
 <h2>GITHUB STATS 🔥🔥🔥</h2>
 <div align="center">
-  <a href="https://github.com/farmysilva">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farmysilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmysilva&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/farmysilva">    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farmysilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmysilva&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farmysilva&theme=algolia" alt="fredrick-waihenya" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,23 +26,6 @@
 </div>
 
 
-<a href="">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmysilva&layout=compact&heigt=&theme=algolia">
-</a>
-<a href="">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=farmysilva&count_private=true&show_icons=true&theme=algolia">
-</a>
-</div>
-<p>
-<a href="">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farmysilva&theme=algolia" alt="fredrick-waihenya" />
-</a>
-</p>
-  
-  
-  
-  
-  
   
 <div> 
   <!--
