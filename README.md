@@ -5,8 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Designer+de+Jogos;Neurocientista;Cientista+de+Dados;desenvolvedor+Full-stack)](https://git.io/typing-svg)
 
+</br>
+<h2>GITHUB STATS 🔥🔥🔥</h2>
 <div align="center">
   <a href="https://github.com/farmysilva">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farmysilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmysilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -23,6 +26,24 @@
 </div>
 
 
+<a href="">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmysilva&layout=compact&heigt=&theme=algolia">
+</a>
+<a href="">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=farmysilva&count_private=true&show_icons=true&theme=algolia">
+</a>
+</div>
+<p>
+<a href="">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farmysilva&theme=algolia" alt="fredrick-waihenya" />
+</a>
+</p>
+  
+  
+  
+  
+  
+  
 <div> 
   <!--
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
