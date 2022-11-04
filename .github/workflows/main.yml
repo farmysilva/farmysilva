@@ -1,0 +1,23 @@
+- name: Yor GitHub Action
+  # You may pin to the exact commit or the version.
+  # uses: bridgecrewio/yor-action@04bf3da0c4e8619a307c023ce8f0d196a2d8a4ee
+  uses: bridgecrewio/yor-action@0.3.0
+  with:
+    # directory with infrastructure code to scan
+    directory: # optional, default is .
+    # Run scan on all checks but a specific check identifier (comma separated)
+    tag_groups: # optional
+    # comma delimited list of yor tags to apply
+    tag: # optional
+    # comma delimited list of yor tags to not apply
+    skip_tags: # optional
+    # comma delimited list of paths for yor to skip tagging of
+    skip_dirs: # optional
+    # comma delimited list of paths to external (custom) tags & tag groups plugins
+    custom_tags: # optional
+    # The format of the output. cli, json
+    output_format: # optional
+    # log level
+    log_level: # optional
+    # Choose whether the action will commit changes. Changes will be commited if this is exactly "YES"
+    commit_changes: # optional, default is true
