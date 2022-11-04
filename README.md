@@ -54,7 +54,7 @@
 </br>
 </br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=farmysilva&bg_color=0d1117&color=fb047b&line=2ddd97&point=838896&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=farmysilva&bg_color=0d1117&color=2ddd97&line=2ddd97&point=838896&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
