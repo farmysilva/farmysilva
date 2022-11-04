@@ -4,7 +4,7 @@
     
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Designer+de+Jogos;Neurocientista;Cientista+de+Dados;desenvolvedor+Full-stack)](https://git.io/typing-svg)
-
+    </p>
 </br>
 <h2>GITHUB STATS 🔥🔥🔥</h2>
 <div align="center">
@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmysilva&layout=compact&langs_count=7&theme=algolia"/>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farmysilva&theme=algolia" alt="fredrick-waihenya" />
 </div>
+</br>
 </br>
 
 <div style="display: inline_block" align="center"><br>
