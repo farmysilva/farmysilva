@@ -5,9 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Designer+de+Jogos;Neurocientista;Cientista+de+Dados;desenvolvedor+Full-stack)](https://git.io/typing-svg)
 
-
-![farmysilva github stats](https://github-readme-stats.vercel.app/api?username=farmysilva)
-
 <div align="center">
   <a href="https://github.com/farmysilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farmysilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
