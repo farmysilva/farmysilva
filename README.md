@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050f2c&height=120&section=header"/>
 
 <h1 align="center">Olá , eu sou Farmy Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -58,7 +58,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farmysilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farmysilva&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
