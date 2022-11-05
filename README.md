@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00adfe&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ddd97&height=120&section=header"/>
 
 <h1 align="center">Olá , eu sou Farmy Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
