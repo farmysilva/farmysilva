@@ -65,6 +65,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=farmysilva&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""/>
 </p>
 
 
