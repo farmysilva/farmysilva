@@ -140,9 +140,6 @@
 
 <img height="90" src="https://hermes.dio.me/tracks/afebe5ed-2b18-438a-95b0-2c971e9aeff9.png"/>
 
-
-[![](https://visitcount.itsvg.in/api?id=farmysilva&icon=0&color=11)](https://visitcount.itsvg.in)
-
 ---
 
 > Caso queira copiar a estrutura do meu `README` fique a vontade. Só peço que deixe uma :star: no repositório :wink:
