@@ -115,15 +115,6 @@
       </td>    
     </tr>
     <tr>
-      <td>23/03/2022</td>
-      <td>Games with Purpose Development Methodology by Ludology Laboratory</td>
-      <td align="center">
-        <a href="https://absel-ojs-ttu.tdl.org/absel/article/view/3342">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>15/03/2023</td>
       <td>An Educational Game about Sustainability Based on ESG+P concepts </td>
       <td align="center">
@@ -131,6 +122,15 @@
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>    
+    </tr>
+    <tr>
+      <td>23/03/2022</td>
+      <td>Games with Purpose Development Methodology by Ludology Laboratory</td>
+      <td align="center">
+        <a href="https://absel-ojs-ttu.tdl.org/absel/article/view/3342">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>
     </tr>
     
   </tbody>
