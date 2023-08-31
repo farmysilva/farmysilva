@@ -13,12 +13,12 @@
 
 <p align="justify">Engenheiro de Software do Rio de Janeiro-RJ, Brasil, Doutorando em Engenharia de Dados e Conhecimento. Atualmente conduzo uma pesquisa sobre: Teoria do Fluxo aplicada ao design de jogos. 
 <br>
- Sou um jogador da velha escola, apaixonado por  tecnologia, música, artes e esportes, alguns dos meus hobbies são ler, viajar, beber um bom vinho, cozinhar e me lançar como Dj. <a href="https://www.instagram.com/farmysilva/">(@farmysilva)</a>.
+ Sou um jogador da velha escola, apaixonado por  tecnologia, música, artes e esportes, alguns dos meus hobbies são ler, viajar, beber um bom vinho, cozinhar e me lançar como Dj. <a href="https://lattes.cnpq.br/3296381644556228">(Lattes)</a>.
 </p>
 
 <p align="justify">Software Engineer from Rio de Janeiro-RJ, Brazil, PhD student in Data and Knowledge Engineering. I am currently conducting research on: Flow Theory applied to game design.
 <br>
- I'm an old school gamer with a passion for technology, music, arts and sports, some of my hobbies are reading, travelling, drinking good wine, cooking and Dj. <a href="https://www.instagram.com/farmysilva/">(@farmysilva)</a>.
+ I'm an old school gamer with a passion for technology, music, arts and sports, some of my hobbies are reading, travelling, drinking good wine, cooking and Dj. <a href="https://lattes.cnpq.br/3296381644556228">(Lattes)</a>.
 </p>
 
 <h3 align="left">Conecte-se comigo / Connect with me</h3>
