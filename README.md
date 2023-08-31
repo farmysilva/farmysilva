@@ -147,9 +147,8 @@
 > Caso queira copiar a estrutura do meu `README` fique a vontade. Só peço que deixe uma :star: no repositório :wink:
 
 ---
-<img src="https://github-widgetbox.vercel.app/api/profile?username=farmysilva&data=repositories,stars,commits&theme=dracula" alt="GitHub WirdgetBox" />
-<p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=farmysilva&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
 
+<p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=farmysilva&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=footer"/>
 
