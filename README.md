@@ -42,8 +42,8 @@
 <img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="medium" src= "https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
 <img alt="medium" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img alt="medium" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 <br>
+<img alt="medium" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 <img alt="medium"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
 <!--
 <img alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
