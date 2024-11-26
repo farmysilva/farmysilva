@@ -4,10 +4,9 @@
 
 <h1>
     <a href="https://farmysilva.github.io/">
-     <img align="center" alt="Logo" width="65px" src="https://img.freepik.com/premium-vector/arcade-game-neon-signs-vector-design-template_77399-1633.jpg?w=740"></a>    
+     <img align="center" alt="Lion Gaming Logo" width="65px" src="https://www.vecteezy.com/vector-art/48467040-lion-roaring-gaming-logo"></a>    
     <span>Farmy Silva</span>
 </h1>
-
 
 
 
