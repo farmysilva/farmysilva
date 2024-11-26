@@ -4,7 +4,7 @@
 
 <h1>
     <a href="https://farmysilva.github.io/">
-     <img align="center" alt="Lion Gaming Logo" width="65px" src="https://www.vecteezy.com/vector-art/48467040-lion-roaring-gaming-logo"></a>    
+     <img align="center" alt="Brain Logo" width="65px" src="https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/fa5a6be4-8a16-4f40-ac9d-7e74aafbeecc/a80699b1-2936-45eb-9799-8dfbc624c8d7.png"></a>    
     <span>Farmy Silva</span>
 </h1>
 
