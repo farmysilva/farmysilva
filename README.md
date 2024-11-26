@@ -4,7 +4,7 @@
 
 <h1>
     <a href="https://farmysilva.github.io/">
-     <img align="center" alt="Logo Elidiana Andrade" width="65px" src="https://recruit-c7ff.kxcdn.com/recruit/wp-content/uploads/2019/09/how-to-hire-a-java-developer.svg"></a>    
+     <img align="center" alt="Logo Elidiana Andrade" width="65px" src="[https://recruit-c7ff.kxcdn.com/recruit/wp-content/uploads/2019/09/how-to-hire-a-java-developer.svg](https://img.freepik.com/premium-vector/arcade-game-neon-signs-vector-design-template_77399-1633.jpg?w=740)"></a>    
     <span>Farmy Silva</span>
 </h1>
 
